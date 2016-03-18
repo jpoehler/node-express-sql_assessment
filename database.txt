@@ -1,0 +1,6 @@
+CREATE TABLE animals
+(
+id int,
+animal varchar(255),
+quantity varchar(255)
+);
